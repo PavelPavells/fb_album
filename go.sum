@@ -1,0 +1,4 @@
+github.com/PavelPavells/fb_album v0.0.0-20230122174349-e8e067d5d36c h1:U78iRf5GhsPbFvhi6zg7Jfu963XrGPocy1RXv88Pb3w=
+github.com/PavelPavells/fb_album v0.0.0-20230122174349-e8e067d5d36c/go.mod h1:c8cdBnB/RnPrLgNdy1JwXZMW1d/6uM8a8VdPdn2Jazw=
+github.com/huandu/facebook v2.3.1+incompatible h1:+F6kUqKx5TifzMg2fXYZFdA/3VVNphdNK8G4PF2ui74=
+github.com/huandu/facebook v2.3.1+incompatible/go.mod h1:wJogp9rhXUUjDuhx6ZaR5Eylx3dsJmy0zyFRaPYUq5g=

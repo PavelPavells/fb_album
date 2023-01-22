@@ -1,0 +1,11 @@
+language: go
+
+go:
+  - "1.18.2"
+  - tip
+
+before_install:
+  - go get golang.org/x/lint/golint
+
+script:
+  - go test -bench=. -benchmem ./...
